@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epuraedo.github.io/EmH/sitemap_index.txt
+Sitemap: https://epuraedo.github.io/Orl/sitemap_index.txt
+Sitemap: https://epuraedo.github.io/otE/sitemap_index.txt
+Sitemap: https://epuraedo.github.io/sAU/sitemap_index.txt
